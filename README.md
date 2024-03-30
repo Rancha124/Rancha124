@@ -12,8 +12,8 @@ I'm a passionate software developer with 4+ years of experience in full-stack de
 
 ## Experience
 
-- Mobile Full Stack Developer Intern at Green Action Studio
-- Full Stack Developer at CodeUnity
+- Mobile Full Stack Developer Intern at Green Action Studio June 2023 - Dec 2023
+- Full Stack Developer at CodeUnity May 2018 - July 2022
 
 ## Let's Connect!
 
