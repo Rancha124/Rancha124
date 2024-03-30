@@ -18,3 +18,4 @@ I'm a passionate software developer with 4+ years of experience in full-stack de
 ## Let's Connect!
 
 Feel free to reach out to me for any collaboration or just to chat about tech! 😊
+You can reach me @ charansai.pcs@gmail.com | https://www.linkedin.com/in/charansai124/
