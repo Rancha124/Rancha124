@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate software developer with 3 years of experience in full-stack development.
+I'm a passionate software developer with 3.2 years of experience in full-stack development.
 
 ## Skills
 
@@ -12,8 +12,9 @@ I'm a passionate software developer with 3 years of experience in full-stack dev
 
 ## Experience
 
-- Mobile Full Stack Developer Intern at Green Action Studio | June 2023 - Dec 2023
-- Full Stack Developer at CodeUnity | Aug 2020 - July 2022
+- Full Stack Developer @ Linde | May 2024 - Present
+- Mobile Full Stack Developer Intern @ Green Action Studio | June 2023 - Dec 2023
+- Full Stack Developer @ CodeUnity | Aug 2020 - July 2022
 
 ## Let's Connect!
 
